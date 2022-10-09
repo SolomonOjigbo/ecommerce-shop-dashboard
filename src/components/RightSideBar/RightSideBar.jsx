@@ -11,6 +11,7 @@ const RightSideBar = () => {
 				<Updates />
 			</div>
 			<div>
+				<h3> Customer Review Stats</h3>
 				<CustomerReviews />
 			</div>
 		</div>
