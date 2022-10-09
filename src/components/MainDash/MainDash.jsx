@@ -6,7 +6,7 @@ import "./MainDash.css";
 const MainDash = () => {
 	return (
 		<div className="MainDash">
-			<h1>MainDash</h1>
+			<h1>Dashboard</h1>
 			<Cards />
 			<OrdersTable />
 		</div>
